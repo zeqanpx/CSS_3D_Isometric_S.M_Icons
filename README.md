@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-> [![Screenshot](https://raw.githubusercontent.com/zeqanpx/Media/main/img/Screenshot%20(147).png)](https://zeqanpx.github.io/CSS_3D_Isometric_S.M_Icons/)
+> [![Screenshot](https://raw.githubusercontent.com/zeqanpx/Media/main/img/Screenshot%20(37).png)](https://zeqanpx.github.io/CSS_3D_Isometric_S.M_Icons/)
 
 ## Guide
 
